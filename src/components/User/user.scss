@@ -1,0 +1,12 @@
+.user {
+    flex-basis: 300px;
+    border: 1px solid #2f2f2f;
+    box-shadow: 3px 3px 4px 2px rgba($color: #000000, $alpha: 0.5);
+    text-align: center;
+    padding: 15px;
+    font-size: 22px;
+    font-weight: 900;
+    .avatar {
+        border-radius: 10px;
+    }
+}
